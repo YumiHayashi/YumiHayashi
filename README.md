@@ -7,7 +7,7 @@
   <p align="center">
 - 🎉 Eu sou uma estudante de Front-end!
 <br>
-- 💫 Além de futura programadora, meus outros interesses também estão ligados a ciência! (Exemplos: Astronomia e Física) ; 
+- 💫 Além de futura programadora, meus outros interesses também estão ligados à ciência! (Exemplos: Astronomia e Física) ; 
 <br>
 - 👾 Busco conhecimento sobre linguagens como: Python, C#, C++, Java ;
 <br>
