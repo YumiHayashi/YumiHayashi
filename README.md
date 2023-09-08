@@ -1,6 +1,6 @@
 
   <h1 align="center">
-    Olá, seres humanos e robóticos! Sou a Srta.Hayashi, muito prazer.
+    Olá, seres humanos e robóticos! Sou a Srta. Hayashi, muito prazer.
   </h1>
 
 
