@@ -15,13 +15,12 @@
 <br>
 - 🧠 Pronomes: Ela/Dela.
   </p>
-
 <div align="center">
   <a href="https://github.com/YumiHayashi">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YumiHayashi&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumiHayashi&theme=radical&hide_border=false&&layout=compact"/>
   </a>
 </div>
+
 
 <br>
 
