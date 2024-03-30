@@ -9,7 +9,7 @@
 <br>
 - 💫 Além de futura programadora, meus outros interesses também estão ligados à ciência! (Exemplos: Astronomia e Física) ; 
 <br>
-- 👾 Busco conhecimento sobre linguagens como: JavaScript e Java ;
+- 👾 Busco conhecimento sobre linguagens como: JavaScript, Python e Java ;
 <br>
 - 🦢 Email: yumihay28@gmail.com ; 
 <br>
