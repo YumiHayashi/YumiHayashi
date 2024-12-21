@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=120&section=header"/>
 
   <h1 align="center">
-    Olá, seres humanos e robóticos! Sou a Srta. Hayashi, muito prazer.
+    Olá, seres humanos! Sou a Hayashi, muito prazer.
   </h1>
 
   <p align="center">
