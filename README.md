@@ -5,7 +5,7 @@
   </h1>
 
   <p align="center">
-  🎉 Eu sou uma programadora Full-Stack! 
+  🎉 Eu sou uma programadora Full-Stack. 
 <br>
 - 👾 Busco conhecimento sobre linguagens como: JavaScript, C#, PHP e Java ;
 <br>
@@ -29,6 +29,6 @@
 
 <br><br>
 
-
+</div>
 
 
