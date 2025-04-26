@@ -1,19 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=120&section=header"/>
 
   <h1 align="center">
-    Olá, seres humanos! Sou a Hayashi, muito prazer.
+    Bem-vindos ao meu perfil!
   </h1>
 
   <p align="center">
-- 🎉 Eu sou uma estudante de Front-end!
+  🎉 Eu sou uma programadora Full-Stack! 
 <br>
-- 💫 Além de futura programadora, meus outros interesses também estão ligados à ciência! (Exemplos: Astronomia e Física) ; 
-<br>
-- 👾 Busco conhecimento sobre linguagens como: JavaScript, C$, PHP e Java ;
+- 👾 Busco conhecimento sobre linguagens como: JavaScript, C#, PHP e Java ;
 <br>
 - 🦢 Email: yumihay28@gmail.com ; 
-<br>
-- 🧠 Pronomes: Ela/Dela.
   </p>
 <div align="center">
   <a href="https://github.com/YumiHayashi">
