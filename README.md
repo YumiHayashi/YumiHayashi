@@ -10,8 +10,8 @@
   
 <div align="left">
 
-![YumiHayashi's github stats](https://github-readme-stats.vercel.app/api?username=YumiHayashi&show_icons=true&theme=dracula)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumiHayashi&layout=compact&theme=dracula" align="right" style="width: 42%" />  
+![YumiHayashi's github stats](https://github-readme-stats.vercel.app/api?username=YumiHayashi&show_icons=true&theme=eva)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumiHayashi&layout=compact&theme=eva" align="right" style="width: 42%" />  
     
 </div>
 
