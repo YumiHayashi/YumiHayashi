@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=120&section=header"/>
 
-<h3 align="center">Desenvolvedora de Sistemas | Web & Mobile | Full Stack</a></h3>
+<h3 align="center">Desenvolvedora de Sistemas | Web & Mobile | Full-stack</a></h3>
 
 --- 
 
