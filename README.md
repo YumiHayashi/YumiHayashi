@@ -11,7 +11,7 @@
 <div align="left">
 
 ![YumiHayashi's github stats](https://github-readme-stats.vercel.app/api?username=YumiHayashi&show_icons=true&theme=dark)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumiHayashi&layout=compact&theme=dark" align="right" style="width: 42%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumiHayashi&layout=compact&theme=dark" align="right" style="width: 50%" />  
     
 </div>
 
