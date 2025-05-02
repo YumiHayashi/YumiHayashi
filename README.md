@@ -18,8 +18,8 @@
   
 <div align="left">
 
-![YumiHayashi's github stats](https://github-readme-stats.vercel.app/api?username=YumiHayashi&show_icons=true&theme=dark)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumiHayashi&layout=compact&theme=dark" align="right" style="width: 40%" />  
+![YumiHayashi's github stats](https://github-readme-stats.vercel.app/api?username=YumiHayashi&show_icons=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumiHayashi&layout=compact&theme=dracula" align="right" style="width: 40%" />  
     
 </div>
 
