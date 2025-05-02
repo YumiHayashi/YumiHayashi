@@ -5,7 +5,7 @@
 --- 
 
   <h1 align="left">
- Github Stats
+ Statistics and Technologies
   </h1>
   
 <div align="left">
