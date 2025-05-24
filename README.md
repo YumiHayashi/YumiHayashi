@@ -1,4 +1,4 @@
-<img width=100% src="https://media.discordapp.net/attachments/1334917110433976412/1352727040259784806/A20FB6FB-99C9-43DB-BE5B-5ED5AA974584.gif?ex=68166fba&is=68151e3a&hm=999a5d21896abe5044ff5d73d70fd714f43a323d315b7a6b0071a76e21229f0e&="/>
+<img width=100% src="https://media.discordapp.net/attachments/1327658845262188644/1327664060854046924/blakk1-2-1-1-1-1-1-1.gif?ex=68333a82&is=6831e902&hm=9975884d14ea8e7a08a548ee3cb72cd13419e5ea8dad63513791e4afebf37084&="/>
 
 <h3 align="center">Desenvolvedora de Sistemas | Web & Mobile | Full Stack</a></h3>
 
