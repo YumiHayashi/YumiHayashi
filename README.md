@@ -18,7 +18,7 @@
   
 <div align="left">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumiHayashi&layout=compact&theme=dracula" align="right" style="width: 40%" />  
     
