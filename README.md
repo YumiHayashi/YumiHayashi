@@ -18,7 +18,8 @@
   
 <div align="left">
 
-![YumiHayashi's github stats](https://github-readme-stats.vercel.app/api?username=YumiHayashi&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumiHayashi&layout=compact&theme=dracula" align="right" style="width: 40%" />  
     
 </div>
