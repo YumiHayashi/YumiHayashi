@@ -1,4 +1,4 @@
-<div align="center"><img width=50% src="https://i.pinimg.com/originals/2d/79/a2/2d79a22c6a7902c41866fe4badebe98e.gif"/></div>
+<div align="center"><img width=50% src="https://i.pinimg.com/originals/f4/e7/86/f4e78681bd8dd291b5f8562e236c216a.gif"/></div>
 <h1 align="center">Isabela Yumi Hayashi</h1>
 <h3 align="center">Desenvolvedora de Sistemas | Web & Mobile | Full Stack</a></h3>
 
