@@ -8,7 +8,7 @@
 🔍 Contact
   </h1>
   <h3>
-    Isabela Yumi - <link yumihay28@gmail.com>
+    Isabela Yumi - <link href=yumihay28@gmail.com>
   </h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/Yuh_Hay) 
