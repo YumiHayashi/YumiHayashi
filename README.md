@@ -7,6 +7,9 @@
   <h1 align="left">
 🔍 Contact
   </h1>
+  <h3>
+    Isabela Yumi - yumihay28@gmail.com
+  </h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/Yuh_Hay) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yumi-hayashi-185553290/)
