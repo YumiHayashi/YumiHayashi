@@ -2,14 +2,16 @@
 <h1 align="center">Isabela Yumi Hayashi</a></h1>
 <h3 align="center">Desenvolvedora de Sistemas | Web & Mobile | Full Stack</a></h3>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 --- 
 
   <h1 align="left">
 🔍 Contact
   </h1>
-  <h3>
-    Isabela Yumi
-  </h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/Yuh_Hay) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yumi-hayashi-185553290/)
