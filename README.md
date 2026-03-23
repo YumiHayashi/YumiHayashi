@@ -17,6 +17,14 @@
 </a>  
 </div>
 
+<div align="center">
+
+  <h3>🔗 Contact</h3>
+  <a href="https://twitter.com/yuh_hay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuh_hay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yumi-hayashi-185553290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yumi-hayashi-185553290" height="30" width="40" /></a>
+<a href="https://instagram.com/yh01.vs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yh01.vs" height="30" width="40" /></a>
+</div>
+
 --- 
 
 
