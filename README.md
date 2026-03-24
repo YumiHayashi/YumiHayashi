@@ -26,8 +26,9 @@
 
 --- 
 
-
-
+<div align="center">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM0J3ojwE9LL3SBxxZlFbTg9xZhd7Yphp93ndi-B7bERlnqZHKPzZmc6-U_u_329goafT1JTUPcdGOvpspUWV_fAosvDjM2-SCClP_8EZx2FW_90aThy7qGvVD9Rc-Mv323renEFhbwZg/s1600/Dino_non-birthday_version.gif" alt="descrição" width="800">
+</div>
 
 
 
