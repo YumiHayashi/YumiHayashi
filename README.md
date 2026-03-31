@@ -2,11 +2,11 @@
 <h3 align="center">Desenvolvedora de Sistemas | Web & Mobile | Full Stack</a></h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YumiHayashi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YumiHayashi&theme=dark&hide_border=false" alt="Github Stats"/>
-</div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YumiHayashi&theme=dark&hide_border=false" alt="Github Stats"/>
+  
 
 <div align="center">  
+  <h3>💻 Languages</h3>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>      
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>   
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
