@@ -19,7 +19,7 @@
 <div align="center">
 
   <h3>🔗 Contact</h3>
-<a href="https://linkedin.com/in/linkedin.com/in/isabela-yumi-hayashi-sabanay-185553290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/isabela-yumi-hayashi-sabanay-185553290" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/isabela-yumi-hayashi-sabanay-185553290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/isabela-yumi-hayashi-sabanay-185553290/" height="30" width="40" /></a>
 </div>
 
 --- 
