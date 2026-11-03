@@ -1,4 +1,4 @@
-<h1 align="center">Isabela Yumi Hayashi</h1>
+<h1 align="center">Isabela Yumi Hayashi Sabanay</h1>
 <h3 align="center">Estudante de Engenharia Eletrônica | Desenvolvedora de Sistemas | Web & Mobile | Full Stack</a></h3>
 
 <div align="center">
